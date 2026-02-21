@@ -2,4 +2,3 @@
 build/
 !important.txt
 *.tmp
-/program.py
