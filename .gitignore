@@ -6,3 +6,4 @@ venv/
 __pycache__/
 /new.py
 *.doc
+/new_tests
