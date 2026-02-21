@@ -2,3 +2,5 @@
 build/
 !important.txt
 *.tmp
+/venv
+/__pycache__
