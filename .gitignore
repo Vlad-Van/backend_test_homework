@@ -2,5 +2,7 @@
 build/
 !important.txt
 *.tmp
-/venv
-/__pycache__
+venv/
+__pycache__/
+/new.py
+*.doc
